@@ -7,8 +7,11 @@
    Using a `for` loop find the largest number.
 
 3. Write a function `youGottaCalmDown` that takes a string and returns the string with at most one exclamation mark (!) at the end.
+
+```
    e.g.
    youGottaCalmDown("HI!!!!!!!!!!") -> "HI!"
+```
 
 ### 🍋 Where
 
