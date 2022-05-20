@@ -1,33 +1,25 @@
-# TASK-NAME
+### 🍋 Lists
 
-This is the template for tasks. These repos are the starting points and instructions for students to explore a concept.
+1. Given this list of integers: `[5, 3, 15, 4, 1]`.
+   Using a `for` loop count the sum of those elements.
 
-## Instructions
-- Fork and clone [this repository](https://github.com/JoinCODED/{REPO_NAME}) to your `Development` folder.
+2. Using the same list of integers.
+   Using a `for` loop find the largest number.
 
-## Objective and end result
-- Write the objective of the task.
-- If there are any images, make sure you resize them to around 880px maximum width. **Don't add big images**
+3. Write a function `youGottaCalmDown` that takes a string and returns the string with at most one exclamation mark (!) at the end.
+   e.g.
+   youGottaCalmDown("HI!!!!!!!!!!") -> "HI!"
 
-![screenshot](https://tenor.com/xNjE.gif)
+### 🍋 Where
 
+1. Write a function called `filterVisitors` that takes 2 arguments, a list of ages and a minimum age allowed to enter.
 
-### 🍋 The basic challenge title
+Return a list of all ages that are more than the minimum age.
 
-- Step 1
-- Step 2
-- Step 3
+### 🍋 FirstWhere
 
+2. Write a function called `findOdds` that takes a list of numbers and returns the first odd number.
 
-### 🤼‍♂️ The hard challenge title
+### 🤼‍♂️ orElse
 
-- Step 1
-- Step 2
-- Step 3
-
-
-### 🌶 The Extreme challenge title 
-
-- Step 1
-- Step 2
-- Step 3
+3. Use the `orElse` named arguement with `FirstWhere` to return a `0` if no `odd` number is found.
