@@ -6,13 +6,6 @@
 2. Using the same list of integers.
    Using a `for` loop find the largest number.
 
-3. Write a function `youGottaCalmDown` that takes a string and returns the string with at most one exclamation mark (!) at the end.
-
-```
-   e.g.
-   youGottaCalmDown("HI!!!!!!!!!!") -> "HI!"
-```
-
 ### 🍋 Where
 
 1. Write a function called `filterVisitors` that takes 2 arguments, a list of ages and a minimum age allowed to enter.
