@@ -1,5 +1,6 @@
 ### Setup
 1. Fork and clone [this repo](https://github.com/JoinCODED/Task-Dart-Lists-Where-FirstWhere).
+2. Write your code in `main.dart`.
 
 ### 🍋 Lists
 
