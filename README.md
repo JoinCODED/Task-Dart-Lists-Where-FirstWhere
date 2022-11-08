@@ -1,3 +1,6 @@
+### Setup
+1. Fork and clone [this repo](https://github.com/JoinCODED/Task-Dart-Lists-Where-FirstWhere).
+
 ### 🍋 Lists
 
 1. Given this list of integers: `[5, 3, 15, 4, 1]`.
